@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Math
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
