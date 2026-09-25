@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0001-two-sum) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Two Pointers
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
