@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Math
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -89,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
