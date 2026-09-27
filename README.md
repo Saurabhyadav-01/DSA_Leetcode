@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0977-squares-of-a-sorted-array](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Dynamic Programming
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Math
 |  |
