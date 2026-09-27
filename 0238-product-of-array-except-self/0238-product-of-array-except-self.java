@@ -1,4 +1,5 @@
 class Solution {
+    // new array me poora left multiple hi store karenge then next time usko last se traverse karenge and , dono array ke last element ka multiple new array ke last me fill karte chalenge
     public int[] productExceptSelf(int[] nums) {
 
         int n = nums.length;
