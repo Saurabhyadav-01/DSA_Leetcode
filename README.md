@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Dynamic Programming
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
