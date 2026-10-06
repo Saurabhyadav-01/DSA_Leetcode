@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -92,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0217-contains-duplicate) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
