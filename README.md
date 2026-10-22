@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0342-power-of-four) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
