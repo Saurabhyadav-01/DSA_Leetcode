@@ -1,30 +1,28 @@
 class Solution {
     public int climbStairs(int n) {
-        int ways[] = new int[n+1];
+        int ways[] = new int[2];
         // THERE IS A CONDITION WHEN OUR FUNCTION MIGHT RECIEVE VALUE LESS THAN 1 ..at n = 1 , n-1 = 0..
         ways[0] = 1;
         ways[1] = 1;
-        if(n<2){
-            
-            return ways[n];
-        }
-
-        else{
+       
             // bult the array...
-            climbStairsUtil(ways) ;
+            climbStairsUtil(n,ways) ;
         
 
-        return ways[n];
-    }
+        return ways[1];
+    
     }
 
-    public void climbStairsUtil( int []ways){
+    public void climbStairsUtil( int n,int []ways){
         
-        for(int i = 2; i < ways.length;i++){
+        for(int i = 1; i < n;i++){
 
-        ways[i] = ways[i-1] + ways[i-2];
+        int temp  = ways[0] + ways[1];
+            ways[0] = ways[1];
+            ways[1] = temp;
+            }
         
     }
    
-}
+
 }
