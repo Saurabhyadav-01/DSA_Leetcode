@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0326-power-of-three) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
