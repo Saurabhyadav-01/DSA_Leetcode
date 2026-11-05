@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Saurabhyadav-01/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
